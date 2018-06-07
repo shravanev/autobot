@@ -1,1 +1,1 @@
-## All language/alog related stuff will go here
+## All language/algo related stuff will go here
