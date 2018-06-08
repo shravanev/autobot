@@ -19,3 +19,5 @@
   * https://www.coursera.org/specializations/data-science-python
 
  
+###Networks
+  * https://www.coursera.org/learn/fundamentals-network-communications
