@@ -5,6 +5,7 @@
 #### Introduction
   * https://www.lynda.com/Python-tutorials/Learning-Python-PyCharm/590828-2.html
   * https://www.lynda.com/Python-tutorials/Python-Generators/483228-2.html
+  * https://www.lynda.com/Python-tutorials/Learning-Python-3-Standard-Library/550133-2.html
  
 #### Design Patterns
   * https://www.lynda.com/Python-tutorials/Design-Patterns-Python/369187-2.html 
